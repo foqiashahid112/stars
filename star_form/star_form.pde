@@ -40,3 +40,5 @@ PVector getVector(float index, int total){
   v.mult(r);
   return v;
 }
+//Code referenced: Cardiod visualization Daniel Shiffman, Coding train 
+//https://www.youtube.com/watch?v=bl3nc_a1nvs
